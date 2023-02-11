@@ -23,7 +23,7 @@
 
 #### Installation
 ```
-git clone git@github.com:gjdame/AirBnB_clone.git
+git clone git@github.com:akubosylva/AirBnB_clone.git
 cd AirBnB_clone
 ```
 #### Usage
