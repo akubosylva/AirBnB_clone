@@ -14,7 +14,7 @@
 | --------- | --------------------------------------------- | ------------------------------------------ |
 | `help`    | `help`                                        | displays all commands available            |
 | `create`  | `create <class>`                              | creates new object (ex. a new User, Place) |
-| `update`  | `User.update('123', {'name' : 'Greg_n_Mel'})` | updates attribute of an object             |
+| `update`  | `User.update('123', {'name' : 'Nic_n_Sly'})` | updates attribute of an object             |
 | `destroy` | `User.destroy('123')`                         | destroys specified object                  |
 | `show`    | `User.show('123')`                            | retrieve an object from a file, a database |
 | `all`     | `User.all()`                                  | display all objects in class               |
